@@ -32,6 +32,7 @@ public class CircleCiApplication {
         return String.format("""
 							<p> Hello world!</p>
 							<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-XJbJcBxJX1wCJftGkEsuRs7HtUYU0xlvNQ&usqp=CAU>
+				   			<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspFmlfxlPlUjcGj4VIZ-VkDoRpdXfxy2_Og&usqp=CAU>
 				   			<p>%s ->(from code) hello</p>
 				                <p>%s ->(from code) database</p>
 				                <p>%s ->(from code) awsaccesskey</p>
