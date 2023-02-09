@@ -31,6 +31,7 @@ public class CircleCiApplication {
     public String greeting(){
         return String.format("""
 							<p> Hello world!</p>
+							<p> New changes <p>
 							<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-XJbJcBxJX1wCJftGkEsuRs7HtUYU0xlvNQ&usqp=CAU>
 				   			<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspFmlfxlPlUjcGj4VIZ-VkDoRpdXfxy2_Og&usqp=CAU>
 				   			<p>%s ->(from code) hello</p>
